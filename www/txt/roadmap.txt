@@ -1,0 +1,40 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$
+$**DEVELOPMENT ROADMAP**$
+$$$$$$$$$$$$$$$$$$$$$$$$$
+
+$$$$ MAJOR $$$$
+[ ] #sage
+[ ] floating reply box
+[ ] no JS static posting
+[ ] TOR posting
+[ ] optional static posting
+[ ] multi-thread view
+
+$$$$ MINOR $$$$
+[X] Desktop notifications
+[X] SSL
+[ ] frontpage
+[ ] 
+[ ] remove catalog
+[ ] remove /all/, boards in header
+[ ] #iching
+[ ] randomize filenames option
+[ ] autoban reddit referrals
+
+$$$$ CSS $$$$
+[x] console
+[x] erowid
+[x] faux
+[x] yotsuba b
+[x] tea
+[ ] tachibana
+[ ] moon
+[ ] shirt
+[ ] a_xr
+[ ] tianmen
+[ ] kaczynski
+[ ] darkmode
+
+XXXX DENIED XXXX
+* multi-image upload
+* custom emojis

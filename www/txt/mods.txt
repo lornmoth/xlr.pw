@@ -1,0 +1,188 @@
+	$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+	$**MODERATION GUIDELINES**$
+	$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+	$$$$ STAFF ROLES $$$$
+
+* JANITOR 
+- Bin posts
+- Spoiler images
+
+* MEIDO
+- Delete images
+- Purge posts
+- View by IP
+- Ban
+
+* HEAD MEIDO
+- Assign staff
+
+* ADMIN
+- Delete posts
+- Site-wide notifications
+- Create boards
+
+$$$$ LOGS $$$$
+
+* BANS 
+chen2.org/html/bans/j
+
+* REPORTS 
+chen2.org/html/report/j
+
+
+	$$$$ TOOLS $$$$
+
+* BIN POST
+Hides the post into a small trash bin icon that can be 
+clicked on to view by anyone. Doesn't actually delete 
+the post, for transparency reasons.
+
+* SPOILER IMAGE
+Forces the image to be spoilered. Use for 3D.
+
+* DELETE IMAGE
+Delete the image entirely. Only use for CP.
+
+* VIEW BY IP
+Opens popup that shows all posts made under the same IP. 
+Only use when considering a ban.
+
+* BAN
+IP ban for X minutes. Use for short time and only when 
+absolutely necessary.
+
+* PURGE POST
+Bins all posts by an IP. Use following a ban in the case 
+of spam if necessary.
+
+* NOTIFICATION
+Displays a site-wide announcement at the top of the page.
+
+	$$$$ POLICY $$$$
+
+Always err on the side of caution when using any moderation.
+It's best to have an invisible presence. Do not post with
+mod trip unless directly relevant, as when answering a
+question fielded to mods. Mod tools are all designed with
+transparency in mind, with the intention of limiting mod
+abuse. Rule with a light hand or you'll sour the culture.
+
+	~~~~ BINNING ~~~~ 
+
+Bin egregiously bad or cancerous posts as a light form of 
+shaming. This is necessary until #sage is implemented,
+then we can allow the community to perform its own 
+cultural moderation. Use discretion.
+
+	~~~~ 3D ~~~~ 
+
+3D is soft banned - it applies to normieshit: twitter 
+memes, 3DPD girls, etc. but not items relevant to
+discussion (e.g. news) or non-normie animal memes. Use
+discretion.
+
+When normie 3D is posted with no text, bin the post. If the
+text post is worthwhile enough to not justify binning the
+whole thing, spoiler the image. If you're unsure if it falls
+under normie 3D or not, spoiler the image.
+
+	~~~~ CENSORED PICTURE ~~~~ 
+
+If CP is posted, delete it, ban the poster for 1YR.
+
+Gore, scat, etc. is OK as long as it's not being used
+disruptively - e.g. being spammed or otherwise used to shit
+on a discussion. In the case, spoiler the images, or if
+they're without worthwhile text, bin the posts. If they
+continue to be spammed, follow ban policy.
+
+(Note: gorespam as community moderation being performed to
+scare normies is OK.)
+
+	~~~~ View by IP ~~~~ 
+
+Viewing should be done very sparingly, because you don't 
+want to undermine confidence in the anonymity between 
+posts - samefagging is a right.
+
+Viewing should be treated as a ban warning. Only view when
+you're considering a ban, to evaluate whether they're
+consistently disruptive and whether they're a regular or
+outsider. Don't ever do it as a meme or to out a samefag,
+and never reveal who's posts are who's when you do.
+
+	~~~~ BANNING ~~~~ 
+
+Bans should only be utilized when necessary. They should 
+only be used on someone disrupting the board in bad faith 
+- spamming, outsider disruption, shilling, etc.
+
+Always do a view by IP before applying a ban to evaluate
+whether they're a regular or outsider, by looking to see if
+they have any normal contributive posts in their history
+before they started acting disruptively.
+
+Regulars should only receive a slap on the wrist: ban them
+only for 1m for a quick warning, 10m or at most 30m when 
+necessary. Ban for 1/2HR if they continue repeating the same
+thing on the same day. If it's infrequent, even if it's the
+same thing, still start back from 0. Their shitposting
+is more important than your annoyance!
+
+(Note: if it's a group of regulars all acting disruptively,
+and not just one person, that's not necessarily disruptive,
+since that's the current normal.)
+
+Outsiders get more strict bans: 2HR by default. Usually
+enough to deter them but still gives the possibility they
+might decide to return and lurk in good faith. If they
+return and continue shitting things up, ban for 12HR.
+
+	$$$$ PRIVACY META $$$$
+
+Some notes if anyone asks about the privacy of the site.
+
+	~~~~ STANCE ~~~~
+
+Privacy and mod transparency are primary concerns. 
+Unfortunately, IP is the only functional way to ban due to
+anonymity having no accounts. 
+
+Bans are necessary due to the risk of CP, spambots, DDOS, 
+etc. 
+
+	~~~~ IP LOGGING ~~~~
+
+IP is logged as minimally as possible:
+
+* IP is logged when a post is made
+* They are only stored for 7 days
+* They are only logged for the purposes of issuing bans
+* They are stored encrypted on the server
+* They are not visible to any staff
+* They are not shown even when View Posts by IP is performed
+* There is a canary warning the Info section
+
+VPN's and range bans are not utilized, if IP a concern,
+using a VPN is recommended. TOR support is on the roadmap. 
+
+Captcha-style verification may be turned on if spam becomes 
+an issue. It's not google's ReCaptcha spyware; we have our 
+own simple in-house solution for the sake of maintaining
+privacy.
+
+	~~~~ JAVASCRIPT ~~~~
+
+Realtime implementation requires scripts. A no-script static 
+posting fallback is on the roadmap, to provide functionality 
+for hardened browsers, CLI, etc.
+
+	~~~~ CANARY WARNING ~~~~
+
+There is a canary warning on the info section.
+
+	~~~~ SOURCE CODE ~~~~
+
+Software is GPLv3 licensed, listed on the info section:
+github.com/bakape/meguca
